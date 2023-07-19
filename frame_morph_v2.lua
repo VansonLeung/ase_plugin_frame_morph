@@ -5,20 +5,6 @@ require('incl/__incl_get_feature_points')
 print("=====")
 print("welcome to van's frame_morph_v2")
 
-function mathHypot(x ,y)
-    return math.sqrt(x^2 + y^2)
-end
-
-
-
-
-
-
-
-
-
-
-
 
 
 
